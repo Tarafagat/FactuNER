@@ -37,3 +37,6 @@ Para instalar **FactuNER** en tu entorno local, sigue los siguientes pasos:
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tuusuario/FactuNER.git
+2. Instala las dependencias necesarias:
+      ```bash
+   pip install -r requirements.txt
