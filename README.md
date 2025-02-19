@@ -40,3 +40,20 @@ Para instalar **FactuNER** en tu entorno local, sigue los siguientes pasos:
 2. Instala las dependencias necesarias:
       ```bash
    pip install -r requirements.txt
+3. Modifica el dataset, asi como la tokenizacion para adaptarla a tu proyecto, a medida que crezca se ira actualizando, para reconocer mas modelos de facturas diferentes.
+
+## Como Contribuir
+Si deseas contribuir al proyecto, por favor sigue estos pasos:
+
+   
+   1. Haz un fork de este repositorio.
+   2. Crea una nueva rama para tu funcionalidad o corrección.
+   3. Realiza los cambios y realiza un commit.
+   4. Abre un Pull Request para que revisemos tu contribución.
+   5. Agradecemos cualquier aporte, ya sea en forma de mejoras al código, correcciones de errores, o ejemplos de facturas que puedan enriquecer el dataset.
+
+
+
+## LICENCIA
+Este proyecto está licenciado bajo la MIT License, por lo tanto sientete libre de utilizar su informacion.
+
